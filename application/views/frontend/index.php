@@ -40,7 +40,7 @@
             <i class="bx bx-file"></i>
           </div>
           <h4><a href="">Misi</a></h4>
-          <p>Dapat Saling berbagi Informasi, Keluh kesah hingga Cerita dalam komunitas</p>
+          <p class="text-justify">Dengan adanya Komunitas Motor Supra Indonesia ini diharapkan bisa untuk ajang silahturahmi untuk para anggota. Dan selain itu semoga komunitas ini bisa membuat kebersamaan yang kuat untuk semua anggota. Komunitas Motor Supra Indonesia ini ingin menyatukan semua pikiran-pikiran yang berbeda untuk menuju stau tujuan yang sama</p>
         </div>
       </div>
     </div>

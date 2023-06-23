@@ -47,7 +47,7 @@ class Admin extends AppController
     public function users()
     {
         $this->template = 'admin';
-        $this->data['title'] = 'Users';
+        $this->data['title'] = 'Pengguna';
         $this->render('backend/users/index');
     }
 }
